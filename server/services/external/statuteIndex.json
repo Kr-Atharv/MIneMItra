@@ -1,0 +1,74 @@
+[
+  {
+    "act": "Mines Act 1952",
+    "section": "22",
+    "title": "Powers of Inspectors",
+    "summary": "Empowers DGMS inspectors to enter, inspect and examine any mine, its machinery and records, and to require the owner/manager to produce documents or answer questions relevant to compliance. This is the statutory basis for the app's 'Section 22' inspection notices."
+  },
+  {
+    "act": "Mines Act 1952",
+    "section": "23",
+    "title": "Facilities to be afforded to Inspectors",
+    "summary": "Requires the mine owner, agent and manager to provide inspectors with reasonable facilities to carry out an inspection, including access, assistance and information."
+  },
+  {
+    "act": "Mines Act 1952",
+    "section": "45",
+    "title": "Notice of Accidents",
+    "summary": "Obliges the manager to report specified categories of accidents (death, serious bodily injury, and other notifiable events) to the Chief Inspector/DGMS within the prescribed time and form."
+  },
+  {
+    "act": "Coal Mines Regulations 2017",
+    "section": "34",
+    "title": "Duties of Safety Officer",
+    "summary": "Sets out the safety officer's responsibilities for hazard identification, safety audits and reporting at the colliery, forming the basis of the app's safety-officer hazard-dossier workflow."
+  },
+  {
+    "act": "Coal Mines Regulations 2017",
+    "section": "35",
+    "title": "Safety Committee and Reporting",
+    "summary": "Requires periodic safety-committee review of incidents and corrective actions, and structured reporting of the same up the management chain."
+  },
+  {
+    "act": "Coal Mines Regulations 2017",
+    "section": "184",
+    "title": "Maintenance of Machinery and Plant",
+    "summary": "Covers periodic examination, testing and certified maintenance of heavy earth-moving machinery (HEMM) and other mechanical plant, including record-keeping of inspections and repairs."
+  },
+  {
+    "act": "Environment Protection Act 1986",
+    "section": "3",
+    "title": "Power of Central Government to take measures",
+    "summary": "Grants the Central Government power to take measures to protect and improve environmental quality, including laying down standards for emissions and discharges."
+  },
+  {
+    "act": "Environment Protection Act 1986",
+    "section": "7",
+    "title": "Persons carrying on industry not to allow emission beyond standards",
+    "summary": "Prohibits any person operating an industry, operation or process from discharging or emitting pollutants in excess of the prescribed standards — the basis for the app's air/water/noise threshold checks."
+  },
+  {
+    "act": "Environment Protection Act 1986",
+    "section": "15",
+    "title": "Penalty for contravention",
+    "summary": "Prescribes penalties, including imprisonment and fines, for failure to comply with the Act's provisions or directions issued under it."
+  },
+  {
+    "act": "Contract Labour (Regulation and Abolition) Act 1970",
+    "section": "20",
+    "title": "Liability of principal employer in certain cases",
+    "summary": "Makes the principal employer liable for welfare and health amenities to contract labour if the contractor fails to provide them, and allows the cost to be recovered from the contractor."
+  },
+  {
+    "act": "Contract Labour (Regulation and Abolition) Act 1970",
+    "section": "21",
+    "title": "Responsibility for payment of wages",
+    "summary": "Places primary responsibility for timely wage payment to contract labour on the contractor, with the principal employer liable to pay (and recover) if the contractor defaults."
+  },
+  {
+    "act": "Contract Labour (Regulation and Abolition) Act 1970",
+    "section": "29",
+    "title": "Registers and Records",
+    "summary": "Requires principal employers and contractors to maintain registers of contract labour, hours of work, wages and other prescribed particulars, available for inspection."
+  }
+]

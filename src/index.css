@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+:root {
+  --cg-green: #0b6b4a;
+  --cg-green-dark: #004d40;
+  --cg-green-deep: #00382e;
+  --cg-cta: #16a34a;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  font-family: "Segoe UI", "Noto Sans", system-ui, sans-serif;
+  background: #f4f7f5;
+  color: #1e293b;
+}
+
+.cg-card {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(15, 53, 40, 0.08);
+}
+
+.cg-cta {
+  background: #16a34a;
+  color: #fff;
+}
+
+.cg-cta:hover {
+  background: #15803d;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
